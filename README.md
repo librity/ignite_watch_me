@@ -48,7 +48,7 @@ $ yarn dev
 
 ## Usage <a name = "usage"></a>
 
-Click on each button on the sidebar to filter the movies by genre.
+Click on the sidebar buttons to filter movies by genre.
 
 ## Docs <a name = "docs"></a>
 
