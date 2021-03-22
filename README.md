@@ -24,11 +24,11 @@ A basic Netlix-like UI that filters movies by genre.
 
 ### Installation
 
-1. Clone this repo locally and install node packages:
+1. Clone this repo locally and install the required packages:
 
 ```bash
-$ git clone https://github.com/librity/repo_name.git
-$ cd repo_name
+$ git clone https://github.com/librity/ignite_watch_me.git
+$ cd ignite_watch_me
 $ yarn install
 ```
 
