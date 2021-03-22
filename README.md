@@ -56,4 +56,4 @@ Click on each button on the sidebar to filter the movies by genre.
 
 ## Resources <a name = "resources"></a>
 
--
+- https://www.tutorialspoint.com/typescript/typescript_interfaces.htm
