@@ -44,7 +44,7 @@ $ yarn server
 $ yarn dev
 ```
 
-4. Open http://localhost:8080 your web browser.
+4. Open http://localhost:8080 on your web browser.
 
 ## Usage <a name = "usage"></a>
 
